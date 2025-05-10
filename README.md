@@ -1,4 +1,4 @@
-# Hey, I'm slevash <img src="https://cdn.discordapp.com/avatars/1292065665665990698/7e031240077b97e8b2365c66b6d1b7e0.webp?size=80" width="35"/>
+# Hey, I'm <img src="https://img.shields.io/badge/slevash-8A2BE2" width="60"/> <img src="https://cdn.discordapp.com/avatars/1292065665665990698/7e031240077b97e8b2365c66b6d1b7e0.webp?size=80" width="35"/>
 
 Founder of **VapeSecurity** [**Join here**](https://discord.gg/vapesecurity) – the market leader in FiveM AntiCheat.  
 I'm a self-taught passionate fullstack developer from germany.
